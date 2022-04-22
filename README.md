@@ -1,4 +1,4 @@
-# Projects based on MCS 51
+# Projects based on MCS51 MCU
 
 The compiler used in this project is keil 4.
 
